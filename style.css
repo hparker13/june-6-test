@@ -1,0 +1,28 @@
+table {
+    margin: 50px;
+    width: 95%;
+}
+
+th, td {
+    padding: 5px;
+    border: 1px solid black;
+}
+
+h2 {
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.container-fluid {
+    width: 95%;
+}
+
+form {
+    margin-left: 50px;
+}
+
+img {
+    width: 350px;
+    display: block;
+    margin: 0 auto;
+}
